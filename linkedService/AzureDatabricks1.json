@@ -1,0 +1,13 @@
+{
+	"name": "AzureDatabricks1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-7405618543151853.13.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/d07eb817-3d6c-4eee-af1c-af4607acabd9/resourceGroups/projA-dev-rg/providers/Microsoft.Databricks/workspaces/eshwar-dev-trial03-centralindia-ws",
+			"existingClusterId": "Eshwar S's Cluster 2026-08-13 09:26:19"
+		}
+	}
+}
