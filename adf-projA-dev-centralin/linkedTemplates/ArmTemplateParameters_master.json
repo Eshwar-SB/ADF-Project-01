@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adf-projA-dev-centralin"
 		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
 		"DS_DataLake_Source_accountKey": {
 			"value": ""
 		},
@@ -19,6 +22,9 @@
 		},
 		"Oracle1_password": {
 			"value": ""
+		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0813-035659-encmu657"
 		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://projA-dev-kv.vault.azure.net/"
